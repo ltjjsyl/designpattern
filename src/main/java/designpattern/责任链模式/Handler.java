@@ -2,7 +2,7 @@ package designpattern.责任链模式;
 
 
 /**
- * 抽象处理者
+ * 抽象处理者，可以用一个枚举类实现
  */
 public abstract class Handler {
     private Handler nextHandler;

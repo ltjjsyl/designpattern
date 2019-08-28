@@ -8,6 +8,5 @@ public class Singleton {
 
     public void methods(){
 
-
     }
 }
